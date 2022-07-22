@@ -15,7 +15,7 @@
                 <td><?php echo $value['judul'];?></td>
                 <td><?php echo $value['deskripsi'];?></td>
                 <td>
-                    <a href="">
+                    <a href="?page=add&id=<?php echo $value['id'];?>">
                         <button style="width: 100%;">edit</button>
                     </a>
                     <hr>
