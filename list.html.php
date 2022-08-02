@@ -1,3 +1,8 @@
+<form action="" method="get">
+    <input type="hidden" name="page" value="list">
+    <input type="text" name="judul" placeholder="cari berdasarkan nama">
+    <button>Cari</button>
+</form>
 <table border="1">
     <tr>
         <td>NO</td>
