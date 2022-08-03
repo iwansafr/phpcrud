@@ -11,6 +11,8 @@
         <li><a href="http://localhost/crud">HOME</a></li>
         <li><a href="?page=add">TAMBAH BUKU</a></li>
         <li><a href="?page=list">DATA BUKU</a></li>
+        <li><a href="?page=guruadd">TAMBAH GURU</a></li>
+        <li><a href="?page=gurulist">DATA GURU</a></li>
         <?php
         include 'view.php';
         ?>
